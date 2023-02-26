@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Vanilla JS</title>
+    <style>
+        .app {
+            text-align: center;
+        }
+
+        .gren-btn {
+            color: #fffff2;
+            background-color: #028002;
+        }
+    </style>
+</head>
+<body>
+<div class="app">
+    <button id="my-button" onclick="changeButton('my-button')">
+        Click me
+    </button>
+</div>
+<script>
+    function changeButton(id) {
+        const myButton = document.getElementById(id);
+        myButton.textContent = 'Hello from Vanilla JS';
+        myButton.className = 'gren-btn';
+    }
+</script>
+</body>
+</html>

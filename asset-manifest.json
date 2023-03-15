@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8cae6288.css",
+    "main.js": "/portfolio/static/js/main.6ecc3747.js",
+    "static/media/todo02-big.jpg": "/portfolio/static/media/todo02-big.7b7e1ffe49fe54fa0534.jpg",
+    "static/media/todo01-big.jpg": "/portfolio/static/media/todo01-big.526a0a00a2b555e0c527.jpg",
+    "static/media/Iam.png": "/portfolio/static/media/Iam.9ccb558b52ceb61fe45c.png",
+    "static/media/landing03-big.jpg": "/portfolio/static/media/landing03-big.28bf90ae43d8989374fa.jpg",
+    "static/media/landing01-big.jpg": "/portfolio/static/media/landing01-big.8a7f58f9a02e874e5838.jpg",
+    "static/media/landing02-big.jpg": "/portfolio/static/media/landing02-big.d654c4ecdbb374aedf92.jpg",
+    "static/media/game03-big.jpg": "/portfolio/static/media/game03-big.fcd2e241012623bcb88c.jpg",
+    "static/media/game02-big.jpg": "/portfolio/static/media/game02-big.17a2c4cb4bf976efe9b0.jpg",
+    "static/media/game01-big.jpg": "/portfolio/static/media/game01-big.c0c0e7bbbf6e826f70d4.jpg",
+    "static/media/calc02-big.jpg": "/portfolio/static/media/calc02-big.a41636ac552e93fb513b.jpg",
+    "static/media/calc01-big.jpg": "/portfolio/static/media/calc01-big.34ea3885d1850a91de88.jpg",
+    "static/media/landing.jpg": "/portfolio/static/media/landing.e598d791233c9b234cba.jpg",
+    "static/media/todo.jpg": "/portfolio/static/media/todo.4af9889c9d8981a1a8b0.jpg",
+    "static/media/game.jpg": "/portfolio/static/media/game.18ee86f81f08d040ac68.jpg",
+    "static/media/calc.jpg": "/portfolio/static/media/calc.0b052e603d22fb8902e0.jpg",
+    "static/media/sun.svg": "/portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/linkedIn.svg": "/portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/portfolio/index.html",
+    "main.8cae6288.css.map": "/portfolio/static/css/main.8cae6288.css.map",
+    "main.6ecc3747.js.map": "/portfolio/static/js/main.6ecc3747.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cae6288.css",
+    "static/js/main.6ecc3747.js"
+  ]
+}
